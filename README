@@ -1,0 +1,7 @@
+/*Author: Suryadeep*/
+Demo trial for Azure Bot Development
+
+Features:
+1. Connect to Azure SQL server.
+2. Use LUIS for NLP.
+3. Frame intent-entity for an Asset Management system.
